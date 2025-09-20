@@ -44,7 +44,8 @@ Creates a new doctor visit with conflict detection.
 
 **Response:** Created visit object with all details.
 
-image.png
+<img width="1759" height="1170" alt="image_2025-09-20_14-16-00" src="https://github.com/user-attachments/assets/660a42dc-9a1f-4aff-8860-61766cc1a0ff" />
+
 
 ### 2. Get Patients List
 
@@ -52,7 +53,8 @@ image.png
 
 Retrieves paginated list of patients with their last visits.
 
-image.png
+<img width="1744" height="1161" alt="image_2025-09-20_14-17-25" src="https://github.com/user-attachments/assets/07a86127-b7d4-4717-bf23-f126fdbb9352" />
+
 
 **Query Parameters:**
 - `page` (optional): Page number (default: 1)
